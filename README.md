@@ -1,4 +1,4 @@
-This is an empty Project with Inertia and Quasar setup to save the trouble of setting it up every time.
+This is an mostly empty template with Inertia and Quasar setup to save the trouble of setting it up every time.
 
 Instructions:
 
